@@ -1,0 +1,7 @@
+Goals
+
+1. To make computers/machines to understand the context of sanskrith hymns , mantrans and all other literature.
+2. To make sanskrit as common language for machines and humans.
+3. To speed up reaserch on ancient indian culture and science and technology in sasthras.
+4. Using AI and machine learning technologies to achive the goals.
+
